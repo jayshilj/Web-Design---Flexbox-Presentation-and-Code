@@ -6,7 +6,7 @@ Please refer the presentation and the code to understand more about Flexbox
 
 Some useful links for reference:
 
-https://ishadeed.com/article/flexbox-real-world-use-cases/
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://flexboxfroggy.com/
-https://www.w3schools.com/css/css3_flexbox.asp
+1. https://ishadeed.com/article/flexbox-real-world-use-cases/
+2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+3. https://flexboxfroggy.com/
+4. https://www.w3schools.com/css/css3_flexbox.asp
