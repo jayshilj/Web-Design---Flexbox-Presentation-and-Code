@@ -1,0 +1,106 @@
+.container {
+    background : lightsteelblue;
+    height: 500px;
+    width: 1000px;
+    padding: 0.5em;
+    margin: auto;
+
+/*
+    display: flex;
+    flex-direction: row;
+
+
+      1. flex-direction: row | row-reverse (~float right) | column | column-reverse */
+        /* flex-direction: column;
+        flex-wrap: wrap ; */
+  /*    2. flex-wrap */
+      
+    
+    /*  3. flex-flow */
+      /* flex-flow: row nowrap; 
+      flex-flow: row wrap;
+     */
+
+
+     
+
+
+
+
+
+
+    /*  4. justify-content : flex-start (Default)    justify-content : center; */
+     
+       
+    
+    
+    
+    
+    
+    /*  5. align-items : stretch (default)      
+                        align-items: center; justify-content: center; 
+                        align-items: baseline;
+                        align-content: center;
+                        align-items : flex-start;
+     */
+
+
+    
+    /*  6. align-content ; 
+    align-content: center
+     */
+
+
+
+
+}
+
+.item {
+    background-color: lightsalmon;
+    margin: 0.5em;
+  /*  
+    flex-grow:;
+    flex-shrink: ;
+    flex-basis: ;
+    flex: ;
+
+*/
+    /*  width:25%; */
+
+
+
+
+
+
+}
+
+
+
+/*    flex: 0 1 250px;
+
+.one {
+   
+
+    flex: 0 1 250px;
+    align-self: flex-start;
+}
+
+
+.two {
+    flex-grow: 2;
+    flex-shrink:2;
+    flex-basis: 250px;
+
+}
+.three {
+    flex-grow: 0;
+    flex-shrink:1;
+    flex-basis: 250px;
+}
+ */
+
+
+
+.big {
+    font-size:2em;
+}
